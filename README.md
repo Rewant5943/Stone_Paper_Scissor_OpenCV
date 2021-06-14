@@ -6,7 +6,7 @@ This Project includes real time involvement of a user who plays the Stone-Paper-
 
 Requirements are:-
 
-1.Python 3
+1.Python3
 2.OpenCV- Through with computer vision module is implemented and hand gestures are captured.
 3.HaarCascades- These are simple xml files which are trained over a set of positive images(images for which cascades are trained) and very large set of negative images(non-relatable images).
 
